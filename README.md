@@ -27,4 +27,4 @@ Este es un juego clásico de la serpiente, desarrollado en Python utilizando la 
    cd juego-serpiente
 3. Ejecuta el script de Python:
    ```bash
-   python snake_game.py
+   python3 snake_game.py

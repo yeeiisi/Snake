@@ -22,3 +22,9 @@ Este es un juego clásico de la serpiente, desarrollado en Python utilizando la 
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone https://github.com/tu-usuario/juego-serpiente.git
+2. Navega al directorio del proyecto:
+   ```bash
+   cd juego-serpiente
+3. Ejecuta el script de Python:
+   ```bash
+   python snake_game.py
